@@ -1,13 +1,5 @@
 # Contact List Management System
 
-## Group Members
-- Alzahraa Abdelhamed - 2300030
-- Sama Ali - 2300125
-- Mohamed Sherif - 2300482 
-- Ziad Mostafa - 2300098
-- Kareem Nasser Abdelmageed - 2300775
----
-
 ## Project Description
 This project is a Contact List Management System developed using C++ and Qt.
 
@@ -97,18 +89,3 @@ cmake --build .
 ```
 Or use Vscode to run with CMakeTools extension
 ---
-
-## AI Usage Declaration
-
-AI tools such as claude were used for:
-- brainstorming ideas.
-- debugging.
-- improving code structure.
-- improving documentation.
-
-Some AI-generated suggestions were modified to better fit the project requirements and improve code simplicity.
-
-### Example of Incorrect AI Output
-There was a bug where AI kept saying that there is a linker error and it turned out that there was an uninitialized pointer that was being accessed.
-
-The final implementation and understanding were completed by the group members.
